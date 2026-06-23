@@ -1,0 +1,19 @@
+# Core pipeline
+requests==2.32.3
+beautifulsoup4==4.12.3
+chromadb==0.6.3
+sentence-transformers==3.4.1
+
+# LLM
+ollama==0.4.7
+
+# Dashboard
+streamlit==1.43.2
+plotly==5.24.1
+pandas==2.2.3
+
+# Sentiment analysis
+vaderSentiment==3.3.2
+
+# Utilities
+python-dotenv==1.0.1

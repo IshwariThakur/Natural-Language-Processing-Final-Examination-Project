@@ -9,9 +9,9 @@ An AI-powered strategic intelligence system that collects live information about
 ```mermaid
 graph TB
     subgraph SOURCES["📡 Data Sources — Task 1"]
-        A[Airbus Newsroom<br/>98 press releases]
-        B[Boeing Newsroom<br/>41 press releases]
-        C[ESA Newsroom<br/>32 press releases]
+        A[Airbus<br/>98 docs]
+        B[Boeing <br/>41 docs]
+        C[ESA <br/>32 docs]
     end
 
     subgraph COLLECT["🔄 Automatic Collection"]
